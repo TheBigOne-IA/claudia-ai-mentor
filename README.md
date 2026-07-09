@@ -143,5 +143,5 @@ claudia/
 
 ## About
 
-Built by **Monalizza Goh** — AI/Localization Specialist & Career Consultant.  
+Built by **Julia Soto** — AI/Localization Specialist & Career Consultant.  
 This project is a working pilot, not a demo. One real client. One real job search. Real results.
